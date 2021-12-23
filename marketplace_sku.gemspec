@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.date = %q{2020-04-20}
   s.description = %q{Gem for parsing marketplace.tf SKUs}
   s.email = %q{nick@quaran.to}
-  s.files = ["Rakefile", "lib/parse.rb", "bin/marketplace_sku"]
+  s.files = ["Rakefile", "lib/sku.rb", "bin/marketplace_sku"]
   s.test_files = ["test/test_hola.rb"]
   s.homepage = %q{http://rubygems.org/gems/hola}
   s.require_paths = ["lib"]
